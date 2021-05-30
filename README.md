@@ -1,3 +1,4 @@
 # Image-Classifier-
 A web application that can identify members of K-Pop group, BTS. 
-It can be found at: shorturl.at/hlotN
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iakhil/Image-Classifier-/tree/master/HEAD?filepath=%2Fvoila%2Frender%2FClassifier.ipynb)
